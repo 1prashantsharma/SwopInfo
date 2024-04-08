@@ -1,0 +1,2308 @@
+
+/* CSS Document */
+@media only screen and (min-width: 320px) and (max-width: 360px) {
+.navbar-inverse .navbar-toggle {
+	border-color: #fff;
+	border: none;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+	background: none;
+}
+.strip_bg {
+	padding: 0px 0px 28px 0px;
+}
+.middle_sections {
+	padding: 150px 0 0 0;
+}
+.left_sections {
+	width: 100%;
+	padding: 0px;
+}
+.profile_bg {
+	background-size: contain;
+}
+.feed_center {
+	width: 100%;
+}
+.liks_feeds {
+	width: 70px;
+}
+.comment_feeds {
+	width: 34%;
+}
+.liks_feeds p {
+	font-size: 13px;
+}
+.comment_feeds p a {
+	font-size: 13px;
+}
+.name_commenter {
+	width: 70%;
+}
+.text_filds_com {
+	width: 71%;
+}
+.name_post-know {
+	width: 34%;
+}
+.name_post-know h1 {
+	font-size: 12px;
+}
+.name_post-know p {
+	font-size: 9px;
+}
+input.add_peopl_know {
+	font-size: 11px;
+}
+.right_sections {
+	width: 100%;
+	margin: 0px 0 20px 0px;
+}
+.add_sections {
+	width: 100%;
+	margin: 0 0 0 0px;
+}
+.bnt_tabs {
+	width: 100%;
+}
+.write-an-articals {
+	width: 100%;
+	margin: 0px 0 15px 0;
+}
+.zone_vidoes label, .zone_vidoes input {
+	left: 128px;
+}
+.profile_name_detials {
+	width: 70%;
+}
+/********name-css-put*****/
+
+
+ul.nav.navbar-nav.navbar-right.cusome li a {
+	color: #fff;
+	background: none;
+	text-align: left;
+	padding: 10px 0px 10px 10px;
+}
+.navbar-nav > li {
+	float: none;
+	width: 100%;
+	padding: 6px 0 6px 0;
+}
+#side-menu {
+	background: #082a12;
+	width: 200px;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+	background: none;
+}
+.nav > li > a > img {
+	float: left;
+	width: 35px;
+	margin: 0 20px 0px 0px;
+}
+li.dropdown.end_border {
+	border: none;
+}
+span.profile_pic img {
+	width: 39px;
+	margin: 0px 15px 10px 0px;
+}
+.navbar-nav {
+	margin: 37.5px -15px;
+}
+ul.dropdown-menu.more_menu li a {
+	line-height: 30px!important;
+	color: #fff!important;
+}
+.post_bnt {
+	padding: 50px 0 0 0;
+	text-align: center;
+	clear: both;
+	width: 100%;
+}
+.post_links_comments {
+	padding: 0px;
+}
+.folo_bnt {
+	width: 60px;
+}
+.folo_bnt a {
+	font-size: 9px;
+	padding: 7px 0px 7px 0px;
+}
+.name_folo-usera {
+	width: 120px;
+}
+
+
+
+/***************************login-page-responsive-css-put-here*****/
+
+.left_img_track {
+    width: 100%;
+}
+.heding_login {
+    padding: 50px 0px;
+}
+.heding_login h1 {
+    font-size: 30px;
+}
+
+.right_filds_login {
+    width: 100%;
+}
+.logo_login span a img {
+    width: 60%;
+}
+.form_set_login {
+    padding: 10px 10px 0px 10px;
+}
+.enter_email_id {
+    width: 74%;
+}
+.formgot_password {
+    text-align: center;
+}
+.copyright_textiot {
+    padding: 10px 0 10px 0;
+}
+input.enter_use_id {
+    width: 100%;
+   
+}
+/********Uploads-css-resposive-css-here****/
+
+
+.bottme_uploads {
+    width: 100%;
+}
+.uploads_folders {
+    width: 100%;
+    padding-top: 20px;
+}
+
+
+.upload_btns {
+    width: 100%;
+}
+
+.first_uploads {
+    width: 70.33%;
+    margin: 0 auto;
+    float: none;
+}
+.first_uploads a {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0 10px 0px;
+}
+.listing_view_and_downloads {
+    width: 100%;
+    padding: 0 0 0 0px;
+}
+
+.first_views {
+    width: 50%;
+}
+
+.first_views p {
+    padding: 0 0 0 19px;
+    font-size: 16px;
+    float: left;
+    text-align: center;
+}
+
+.first_box_uploads {
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+}
+
+
+}
+
+@media only screen and (min-width: 361px) and (max-width: 480px) {
+.navbar-inverse .navbar-toggle {
+	border-color: #fff;
+	border: none;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+	background: none;
+}
+.strip_bg {
+	padding: 0px 0px 8px 0px;
+}
+.middle_sections {
+	padding: 90px 0 0 0;
+}
+.left_sections {
+	width: 100%;
+	padding: 0px;
+}
+.profile_bg {
+	background-size: contain;
+}
+.feed_center {
+	width: 100%;
+}
+.liks_feeds {
+	width: 70px;
+}
+.comment_feeds {
+	width: 34%;
+}
+.liks_feeds p {
+	font-size: 14px;
+}
+.name_commenter {
+	width: 70%;
+}
+.text_filds_com {
+	width: 47%;
+}
+.name_post-know {
+	width: 45%;
+}
+.name_post-know h1 {
+	font-size: 13px;
+}
+.name_post-know p {
+	font-size: 12px;
+}
+input.add_peopl_know {
+	font-size: 11px;
+}
+.right_sections {
+	width: 100%;
+	margin: 0px 0 20px 0px;
+}
+.add_sections {
+	width: 100%;
+	margin: 0 0 0 0px;
+}
+.bnt_tabs {
+	width: 100%;
+}
+.write-an-articals {
+	width: 100%;
+	margin: 0px 0 15px 0;
+}
+.zone_vidoes label, .zone_vidoes input {
+	left: 135%;
+}
+.profile_name_detials {
+	width: 70%;
+}
+/********name-css-put*****/
+
+
+ul.nav.navbar-nav.navbar-right.cusome li a {
+	color: #fff;
+	background: none;
+	text-align: left;
+	padding: 10px 0px 10px 10px;
+}
+.navbar-nav > li {
+	float: none;
+	width: 100%;
+	padding: 6px 0 6px 0;
+}
+#side-menu {
+	background: #082a12;
+	width: 200px;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+	background: none;
+}
+.nav > li > a > img {
+	float: left;
+	width: 35px;
+	margin: 0 20px 0px 0px;
+}
+li.dropdown.end_border {
+	border: none;
+}
+span.profile_pic img {
+	width: 39px;
+	margin: 0px 15px 10px 0px;
+}
+.navbar-nav {
+	margin: 37.5px -15px;
+}
+ul.dropdown-menu.more_menu li a {
+	line-height: 30px!important;
+	color: #fff!important;
+}
+.post_bnt {
+	padding: 50px 0 0 0;
+	text-align: center;
+	clear: both;
+	width: 100%;
+}
+.post_links_comments {
+	padding: 0px;
+}
+.folo_bnt {
+	width: 60px;
+}
+.folo_bnt a {
+	font-size: 9px;
+	padding: 7px 0px 7px 0px;
+}
+.name_folo-usera {
+	width: 57%;
+}
+.comm_text_filds {
+	width: 100%;
+}
+.all_menu {
+	float: right;
+	width: 12%;
+}
+.navbar-toggle {
+	margin-right: 0px;
+}
+.logo-with_search {
+	width: 85%;
+}
+.logo_part {
+	width: 25%;
+}
+.search_box {
+	width: 75%;
+}
+
+
+
+/***************************login-page-responsive-css-put-here*****/
+
+.left_img_track {
+    width: 100%;
+}
+.heding_login {
+    padding: 50px 0px;
+}
+.heding_login h1 {
+    font-size: 30px;
+}
+
+.right_filds_login {
+    width: 100%;
+}
+.logo_login span a img {
+    width: 60%;
+}
+.form_set_login {
+    padding: 10px 10px 0px 10px;
+}
+.enter_email_id {
+    width: 74%;
+}
+.formgot_password {
+    text-align: center;
+}
+.copyright_textiot {
+    padding: 10px 0 10px 0;
+}
+
+input.enter_use_id {
+    width: 100%;
+   
+}
+
+/********Uploads-css-resposive-css-here****/
+
+
+.bottme_uploads {
+    width: 100%;
+}
+.uploads_folders {
+    width: 100%;
+    padding-top: 20px;
+}
+
+
+.upload_btns {
+    width: 100%;
+}
+
+.first_uploads {
+    width: 70.33%;
+    margin: 0 auto;
+    float: none;
+}
+.first_uploads a {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0 10px 0px;
+}
+.listing_view_and_downloads {
+    width: 100%;
+    padding: 0 0 0 0px;
+}
+
+.first_views {
+    width: 50%;
+}
+
+.first_views p {
+    padding: 0 0 0 19px;
+    font-size: 16px;
+    float: left;
+    text-align: center;
+}
+
+.first_box_uploads {
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+}
+
+
+}
+
+@media only screen and (min-width: 481px) and (max-width: 520px) {
+.navbar-inverse .navbar-toggle {
+	border-color: #fff;
+	border: none;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+	background: none;
+}
+.strip_bg {
+	padding: 0px 0px 8px 0px;
+}
+.middle_sections {
+	padding: 90px 0 0 0;
+}
+.left_sections {
+	width: 100%;
+	padding: 0px;
+}
+.profile_bg {
+	background-size: contain;
+}
+.feed_center {
+	width: 100%;
+}
+.liks_feeds {
+	width: 70px;
+}
+.comment_feeds {
+	width: 34%;
+}
+.liks_feeds p {
+	font-size: 14px;
+}
+.name_commenter {
+	width: 70%;
+}
+.text_filds_com {
+	width: 63%;
+}
+.name_post-know {
+	width: 60%;
+}
+input.add_peopl_know {
+	font-size: 14px;
+}
+.right_sections {
+	width: 100%;
+	margin: 0px 0 20px 0px;
+}
+.add_sections {
+	width: 100%;
+	margin: 0 0 0 0px;
+}
+.bnt_tabs {
+	width: 100%;
+}
+.write-an-articals {
+	width: 36%;
+	margin: 0px 0 0px 0;
+}
+.zone_vidoes label, .zone_vidoes input {
+	left: 114%;
+}
+.profile_name_detials {
+	width: 70%;
+}
+.bnt_tabs {
+	font-size: 12px;
+}
+.zone label {
+	font-size: 13px;
+	margin-left: 10px;
+}
+/********name-css-put*****/
+
+
+ul.nav.navbar-nav.navbar-right.cusome li a {
+	color: #fff;
+	background: none;
+	text-align: left;
+	padding: 10px 0px 10px 10px;
+}
+.navbar-nav > li {
+	float: none;
+	width: 100%;
+	padding: 6px 0 6px 0;
+}
+#side-menu {
+	background: #082a12;
+	width: 200px;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+	background: none;
+}
+.nav > li > a > img {
+	float: left;
+	width: 35px;
+	margin: 0 20px 0px 0px;
+}
+li.dropdown.end_border {
+	border: none;
+}
+span.profile_pic img {
+	width: 39px;
+	margin: 0px 15px 10px 0px;
+}
+.navbar-nav {
+	margin: 37.5px -15px;
+}
+ul.dropdown-menu.more_menu li a {
+	line-height: 30px!important;
+	color: #fff!important;
+}
+.post_bnt {
+	padding: 20px 0 0 0;
+	text-align: center;
+	clear: both;
+	width: 100%;
+}
+.post_links_comments {
+	padding: 0px;
+}
+.folo_bnt {
+	width: 70px;
+}
+.folo_bnt a {
+	font-size: 11px;
+	padding: 7px 10px 7px 10px;
+}
+.name_folo-usera {
+	width: 57%;
+}
+.comm_text_filds {
+	width: 100%;
+}
+.all_menu {
+	float: right;
+	width: 12%;
+}
+.navbar-toggle {
+	margin-right: 0px;
+}
+.logo-with_search {
+	width: 85%;
+}
+.logo_part {
+	width: 25%;
+}
+.search_box {
+	width: 75%;
+}
+.user_profile_ico {
+	padding: 60px 0 0 0;
+}
+
+/***************************login-page-responsive-css-put-here*****/
+
+.left_img_track {
+    width: 100%;
+}
+.heding_login {
+    padding: 50px 0px;
+}
+.heding_login h1 {
+    font-size: 50px;
+}
+
+.right_filds_login {
+    width: 100%;
+}
+.logo_login span a img {
+    width: 50%;
+}
+.form_set_login {
+    padding: 10px 10px 0px 10px;
+}
+.enter_email_id {
+    width: 82%;
+}
+.formgot_password {
+    text-align: center;
+	    width: 144px;
+}
+.copyright_textiot {
+    padding: 10px 0 10px 0;
+}
+input.enter_use_id {
+    width: 100%;
+   
+}
+
+/********Uploads-css-resposive-css-here****/
+
+
+.bottme_uploads {
+    width: 100%;
+}
+.uploads_folders {
+    width: 100%;
+    padding-top: 20px;
+}
+
+
+.upload_btns {
+    width: 100%;
+}
+
+.first_uploads {
+    width: 31%;
+    margin: 0 4px 0 5px;
+    float: left;
+}
+.first_uploads a {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0 10px 0px;
+}
+.listing_view_and_downloads {
+    width: 100%;
+    padding: 0 0 0 0px;
+}
+
+.first_views {
+    width: 50%;
+}
+
+.first_views p {
+    padding: 0 0 0 19px;
+    font-size: 16px;
+    float: left;
+    text-align: center;
+}
+
+.first_box_uploads {
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+}
+
+
+
+
+
+}
+
+@media only screen and (min-width: 521px) and (max-width: 640px) {
+.navbar-inverse .navbar-toggle {
+	border-color: #fff;
+	border: none;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+	background: none;
+}
+.strip_bg {
+	padding: 0px 0px 8px 0px;
+}
+.middle_sections {
+	padding: 90px 0 0 0;
+}
+.left_sections {
+	width: 100%;
+	padding: 0px;
+}
+.profile_bg {
+	background-size: cover;
+}
+.feed_center {
+	width: 100%;
+}
+.liks_feeds {
+	width: 30%;
+}
+.comment_feeds {
+	width: 34%;
+}
+.liks_feeds p {
+	font-size: 14px;
+}
+.name_commenter {
+	width: 70%;
+}
+.text_filds_com {
+	width: 66%;
+}
+.name_post-know {
+	width: 65%;
+}
+input.add_peopl_know {
+	font-size: 14px;
+}
+.right_sections {
+	width: 100%;
+	margin: 0px 0 20px 0px;
+}
+.add_sections {
+	width: 100%;
+	margin: 0 0 0 0px;
+}
+.bnt_tabs {
+	width: 100%;
+}
+.write-an-articals {
+	width: 30%;
+	margin: 0px 0 0px 0;
+}
+.zone_vidoes label, .zone_vidoes input {
+	left: 114%;
+}
+.profile_name_detials {
+	width: 70%;
+}
+.bnt_tabs {
+	font-size: 12px;
+}
+.zone label {
+	font-size: 13px;
+	margin-left: 10px;
+}
+/********name-css-put*****/
+
+
+ul.nav.navbar-nav.navbar-right.cusome li a {
+	color: #fff;
+	background: none;
+	text-align: left;
+	padding: 10px 0px 10px 10px;
+}
+.navbar-nav > li {
+	float: none;
+	width: 100%;
+	padding: 6px 0 6px 0;
+}
+#side-menu {
+	background: #082a12;
+	width: 200px;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+	background: none;
+}
+.nav > li > a > img {
+	float: left;
+	width: 35px;
+	margin: 0 20px 0px 0px;
+}
+li.dropdown.end_border {
+	border: none;
+}
+span.profile_pic img {
+	width: 39px;
+	margin: 0px 15px 10px 0px;
+}
+.navbar-nav {
+	margin: 37.5px -15px;
+}
+ul.dropdown-menu.more_menu li a {
+	line-height: 30px!important;
+	color: #fff!important;
+}
+.post_links_comments {
+	padding: 0px;
+}
+.folo_bnt {
+	width: 70px;
+}
+.folo_bnt a {
+	font-size: 11px;
+	padding: 7px 10px 7px 10px;
+}
+.name_folo-usera {
+	width: 68%;
+}
+.comm_text_filds {
+	width: 100%;
+}
+.all_menu {
+	float: right;
+	width: 12%;
+}
+.navbar-toggle {
+	margin-right: 0px;
+}
+.logo-with_search {
+	width: 85%;
+}
+.logo_part {
+	width: 25%;
+}
+.search_box {
+	width: 75%;
+}
+.zone_vidoes label {
+	font-size: 13px;
+}
+.uploads_img-set {
+	width: 105px;
+}
+input.bnt_at-post {
+	font-size: 15px;
+}
+.post_bnt {
+	width: 80px;
+}
+.pro_img {
+	top: 40px;
+}
+.user_profile_ico {
+	padding: 0px 0 0 0;
+}
+.name-account-holder {
+	padding: 55px 0 15px 0;
+}
+
+
+/***************************login-page-responsive-css-put-here*****/
+
+.left_img_track {
+    width: 100%;
+}
+.heding_login {
+    padding: 50px 0px;
+}
+.heding_login h1 {
+    font-size: 50px;
+}
+
+.right_filds_login {
+    width: 100%;
+}
+.logo_login span a img {
+    width: 50%;
+}
+.form_set_login {
+    padding: 10px 10px 0px 10px;
+}
+.enter_email_id {
+    width: 82%;
+}
+.formgot_password {
+    text-align: center;
+	    width: 144px;
+}
+.copyright_textiot {
+    padding: 10px 0 10px 0;
+}
+input.enter_use_id {
+    width: 100%;
+   
+}
+/********Uploads-css-resposive-css-here****/
+
+
+.bottme_uploads {
+    width: 100%;
+}
+.uploads_folders {
+    width: 100%;
+    padding-top: 20px;
+}
+
+
+.upload_btns {
+    width: 100%;
+}
+
+.first_uploads {
+    width: 31%;
+    margin: 0 4px 0 5px;
+    float: left;
+}
+.first_uploads a {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0 10px 0px;
+}
+.listing_view_and_downloads {
+    width: 100%;
+    padding: 0 0 0 0px;
+}
+
+.first_views {
+    width: 50%;
+}
+
+.first_views p {
+    padding: 0 0 0 19px;
+    font-size: 16px;
+    float: left;
+    text-align: center;
+}
+
+.first_box_uploads {
+    width: 47%;
+    margin: 10px 0px 10px 10px;
+}
+.view_and_downloads {
+    padding: 10px 0px 0 0px;
+}
+.left_view p {
+    font-size: 12px;
+    
+}
+.title_file a {
+    font-size: 12px;
+}
+
+
+}
+
+@media only screen and (min-width: 641px) and (max-width: 767px) {
+.navbar-inverse .navbar-toggle {
+	border-color: #fff;
+	border: none;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+	background: none;
+}
+.strip_bg {
+	padding: 0px 0px 8px 0px;
+}
+.middle_sections {
+	padding: 90px 0 0 0;
+}
+.left_sections {
+	width: 100%;
+	padding: 0px;
+}
+.profile_bg {
+	background-size: cover;
+}
+.feed_center {
+	width: 100%;
+}
+.liks_feeds {
+	width: 30%;
+}
+.comment_feeds {
+	width: 34%;
+}
+.liks_feeds p {
+	font-size: 14px;
+}
+.name_commenter {
+	width: 70%;
+}
+.text_filds_com {
+	width: 66%;
+}
+.name_post-know {
+	width: 65%;
+}
+input.add_peopl_know {
+	font-size: 14px;
+}
+.right_sections {
+	width: 100%;
+	margin: 0px 0 20px 0px;
+}
+.add_sections {
+	width: 100%;
+	margin: 0 0 0 0px;
+}
+.bnt_tabs {
+	width: 100%;
+}
+.write-an-articals {
+	width: 30%;
+	margin: 0px 0 0px 0;
+}
+.zone_vidoes label, .zone_vidoes input {
+	left: 114%;
+}
+.profile_name_detials {
+	width: 70%;
+}
+.bnt_tabs {
+	font-size: 12px;
+}
+.zone label {
+	font-size: 13px;
+	margin-left: 10px;
+}
+/********name-css-put*****/
+
+
+ul.nav.navbar-nav.navbar-right.cusome li a {
+	color: #fff;
+	background: none;
+	text-align: left;
+	padding: 10px 0px 10px 10px;
+}
+.navbar-nav > li {
+	float: none;
+	width: 100%;
+	padding: 6px 0 6px 0;
+}
+#side-menu {
+	background: #082a12;
+	width: 200px;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+	background: none;
+}
+.nav > li > a > img {
+	float: left;
+	width: 35px;
+	margin: 0 20px 0px 0px;
+}
+li.dropdown.end_border {
+	border: none;
+}
+span.profile_pic img {
+	width: 39px;
+	margin: 0px 15px 10px 0px;
+}
+.navbar-nav {
+	margin: 37.5px -15px;
+}
+ul.dropdown-menu.more_menu li a {
+	line-height: 30px!important;
+	color: #fff!important;
+}
+.post_links_comments {
+	padding: 0px;
+}
+.folo_bnt {
+	width: 70px;
+}
+.folo_bnt a {
+	font-size: 11px;
+	padding: 7px 10px 7px 10px;
+}
+.name_folo-usera {
+	width: 68%;
+}
+.comm_text_filds {
+	width: 100%;
+}
+.all_menu {
+	float: right;
+	width: 12%;
+}
+.navbar-toggle {
+	margin-right: 0px;
+}
+.logo-with_search {
+	width: 85%;
+}
+.logo_part {
+	width: 25%;
+}
+.search_box {
+	width: 75%;
+}
+.zone_vidoes label {
+	font-size: 13px;
+}
+.uploads_img-set {
+	width: 105px;
+}
+input.bnt_at-post {
+	font-size: 15px;
+}
+.post_bnt {
+	width: 80px;
+}
+.pro_img {
+	top: 40px;
+}
+.user_profile_ico {
+	padding: 0px 0 0 0;
+}
+.name-account-holder {
+	padding: 55px 0 15px 0;
+}
+/***************************login-page-responsive-css-put-here*****/
+
+.left_img_track {
+    width: 100%;
+}
+.heding_login {
+    padding: 50px 0px;
+}
+.heding_login h1 {
+    font-size: 50px;
+}
+
+.right_filds_login {
+    width: 100%;
+}
+.logo_login span a img {
+    width: 40%;
+}
+.form_set_login {
+    padding: 10px 10px 0px 10px;
+}
+.enter_email_id {
+    width: 82%;
+}
+.formgot_password {
+    text-align: center;
+	    width: 144px;
+}
+.copyright_textiot {
+    padding: 10px 0 10px 0;
+}
+input.enter_use_id {
+    width: 100%;
+   
+}
+
+/********Uploads-css-resposive-css-here****/
+
+
+.bottme_uploads {
+    width: 100%;
+}
+.uploads_folders {
+    width: 100%;
+    padding-top: 20px;
+}
+
+
+.upload_btns {
+    width: 100%;
+}
+
+.first_uploads {
+    width: 31%;
+    margin: 0 4px 0 5px;
+    float: left;
+}
+.first_uploads a {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0 10px 0px;
+}
+.listing_view_and_downloads {
+    width: 100%;
+    padding: 0 0 0 0px;
+}
+
+.first_views {
+    width: 50%;
+}
+
+.first_views p {
+    padding: 0 0 0 19px;
+    font-size: 16px;
+    float: left;
+    text-align: center;
+}
+
+.first_box_uploads {
+    width: 47%;
+    margin: 10px 0px 10px 10px;
+}
+.view_and_downloads {
+    padding: 10px 0px 0 0px;
+}
+.left_view p {
+    font-size: 13px;
+    
+}
+.title_file a {
+    font-size: 13px;
+}
+
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 800px) {
+.logo-with_search {
+	width: 100%;
+}
+.logo_part {
+	width: 25%;
+}
+.search_box {
+	width: 72%;
+}
+.all_menu {
+	width: 100%;
+}
+.middle_sections {
+	padding: 150px 0 0 0;
+}
+.feed_center {
+	width: 63%;
+}
+.right_part-set {
+	width: 37%;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 400px;
+}
+.add_space {
+	display: none;
+}
+.right_sections {
+	width: 245px;
+	margin: 0px 0 20px 0px;
+	padding: 15px 10px;
+}
+.add_sections {
+	width: 245px;
+	margin: 0 0 0 0px;
+}
+.name_folo-usera {
+	width: 164px;
+}
+.write-an-articals {
+	width: 134px;
+}
+.bnt_tabs {
+	font-size: 11px;
+	width: 132px;
+}
+.zone label {
+	font-size: 12px;
+}
+.uploads_img-set {
+	width: 90px;
+	margin-left: 7px;
+}
+.zone_vidoes label {
+	font-size: 11px;
+}
+.zone_vidoes label, .zone_vidoes input {
+	left: 95px;
+}
+.post_bnt {
+	width: 83px;
+}
+.profile_name_detials {
+	width: 80%;
+}
+.profile_name_detials {
+	width: 80%;
+}
+.text_filds_com {
+	width: 55%;
+}
+.name_post-know {
+	width: 60%;
+}
+.name_commenter {
+	width: 82%;
+}
+/***************************login-page-responsive-css-put-here*****/
+.form_set_login {
+    padding: 10px 30px 0px 30px;
+}
+
+.left_icon {
+    width: 60px;
+}
+input.enter_use_id {
+    width: 100%;
+}
+
+.enter_email_id {
+    width: 80%;
+}
+
+.formgot_password {
+    width: 100%;
+    text-align: center;
+}
+
+/********Uploads-css-resposive-css-here****/
+
+
+.bottme_uploads {
+    width: 100%;
+}
+.uploads_folders {
+    width: 63%;
+    padding-top: 0px;
+}
+
+
+.upload_btns {
+    width: 100%;
+}
+
+.first_uploads {
+    width: 31%;
+    margin: 0 4px 0 5px;
+    float: left;
+}
+.first_uploads a {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0 10px 0px;
+}
+.listing_view_and_downloads {
+    width: 100%;
+    padding: 0 0 0 0px;
+}
+
+.first_views {
+    width: 50%;
+}
+
+.first_views p {
+    padding: 0 0 0 19px;
+    font-size: 16px;
+    float: left;
+    text-align: center;
+}
+
+.first_box_uploads {
+    width: 47%;
+    margin: 10px 0px 10px 10px;
+}
+.view_and_downloads {
+    padding: 10px 0px 0 0px;
+}
+.left_view p {
+    font-size: 11px;
+    
+}
+.title_file a {
+    font-size: 11px;
+}
+
+
+
+}
+
+@media only screen and (min-width: 801px) and (max-width: 900px) {
+.logo-with_search {
+	width: 100%;
+}
+.logo_part {
+	width: 25%;
+}
+.search_box {
+	width: 72%;
+}
+.all_menu {
+	width: 100%;
+}
+.middle_sections {
+	padding: 150px 0 0 0;
+}
+.feed_center {
+	width: 63%;
+}
+.right_part-set {
+	width: 37%;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 400px;
+}
+.add_space {
+	display: none;
+}
+.right_sections {
+	width: 245px;
+	margin: 0px 0 20px 0px;
+	padding: 15px 10px;
+}
+.add_sections {
+	width: 245px;
+	margin: 0 0 0 0px;
+}
+.name_folo-usera {
+	width: 164px;
+}
+.write-an-articals {
+	width: 134px;
+}
+.bnt_tabs {
+	font-size: 11px;
+	width: 132px;
+}
+.zone label {
+	font-size: 12px;
+}
+.uploads_img-set {
+	width: 90px;
+	margin-left: 7px;
+}
+.zone_vidoes label {
+	font-size: 11px;
+}
+.zone_vidoes label, .zone_vidoes input {
+	left: 95px;
+}
+.post_bnt {
+	width: 83px;
+}
+.profile_name_detials {
+	width: 80%;
+}
+.profile_name_detials {
+	width: 80%;
+}
+.text_filds_com {
+	width: 55%;
+}
+.name_post-know {
+	width: 60%;
+}
+.name_commenter {
+	width: 82%;
+}
+
+/***************************login-page-responsive-css-put-here*****/
+.form_set_login {
+    padding: 10px 30px 0px 30px;
+}
+
+.left_icon {
+    width: 60px;
+}
+input.enter_use_id {
+    width: 100%;
+}
+
+.enter_email_id {
+    width: 80%;
+}
+
+.formgot_password {
+    width: 100%;
+    text-align: center;
+}
+
+/********Uploads-css-resposive-css-here****/
+
+
+.bottme_uploads {
+    width: 100%;
+}
+.uploads_folders {
+    width: 63%;
+    padding-top: 0px;
+}
+
+
+.upload_btns {
+    width: 100%;
+}
+
+.first_uploads {
+    width: 31%;
+    margin: 0 4px 0 5px;
+    float: left;
+}
+.first_uploads a {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0 10px 0px;
+}
+.listing_view_and_downloads {
+    width: 100%;
+    padding: 0 0 0 0px;
+}
+
+.first_views {
+    width: 50%;
+}
+
+.first_views p {
+    padding: 0 0 0 19px;
+    font-size: 16px;
+    float: left;
+    text-align: center;
+}
+
+.first_box_uploads {
+    width: 47%;
+    margin: 10px 0px 10px 10px;
+}
+.view_and_downloads {
+    padding: 10px 0px 0 0px;
+}
+.left_view p {
+    font-size: 11px;
+    
+}
+.title_file a {
+    font-size: 11px;
+}
+
+
+
+
+
+
+}
+
+@media only screen and (min-width: 901px) and (max-width: 992px) {
+.logo-with_search {
+	width: 100%;
+}
+.logo_part {
+	width: 25%;
+}
+.search_box {
+	width: 72%;
+}
+.all_menu {
+	width: 100%;
+}
+.middle_sections {
+	padding: 150px 0 0 0;
+}
+.feed_center {
+	width: 63%;
+}
+.right_part-set {
+	width: 37%;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 400px;
+}
+.add_space {
+	display: none;
+}
+.right_sections {
+	width: 245px;
+	margin: 0px 0 20px 0px;
+	padding: 15px 10px;
+}
+.add_sections {
+	width: 245px;
+	margin: 0 0 0 0px;
+}
+.name_folo-usera {
+	width: 164px;
+}
+.write-an-articals {
+	width: 134px;
+}
+.bnt_tabs {
+	font-size: 11px;
+	width: 132px;
+}
+.zone label {
+	font-size: 12px;
+}
+.uploads_img-set {
+	width: 90px;
+	margin-left: 7px;
+}
+.zone_vidoes label {
+	font-size: 11px;
+}
+.zone_vidoes label, .zone_vidoes input {
+	left: 95px;
+}
+.post_bnt {
+	width: 83px;
+}
+.profile_name_detials {
+	width: 80%;
+}
+.profile_name_detials {
+	width: 80%;
+}
+.text_filds_com {
+	width: 55%;
+}
+.name_post-know {
+	width: 60%;
+}
+.name_commenter {
+	width: 82%;
+}
+/***************************login-page-responsive-css-put-here*****/
+.form_set_login {
+    padding: 10px 30px 0px 30px;
+}
+
+.left_icon {
+    width: 60px;
+}
+input.enter_use_id {
+    width: 100%;
+}
+
+.enter_email_id {
+    width: 80%;
+}
+
+.formgot_password {
+    width: 41%;
+    text-align: center;
+}
+.remember_me {
+    width: 180px;
+}
+.dd {
+    font-size: 13px;
+}
+.formgot_password a {
+    font-size: 12px;
+}
+
+
+/********Uploads-css-resposive-css-here****/
+
+
+.bottme_uploads {
+    width: 100%;
+}
+.uploads_folders {
+    width: 63%;
+    padding-top: 0px;
+}
+
+
+.upload_btns {
+    width: 100%;
+}
+
+.first_uploads {
+    width: 31%;
+    margin: 0 4px 0 5px;
+    float: left;
+}
+.first_uploads a {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0 10px 0px;
+}
+.listing_view_and_downloads {
+    width: 100%;
+    padding: 0 0 0 0px;
+}
+
+.first_views {
+    width: 50%;
+}
+
+.first_views p {
+    padding: 0 0 0 19px;
+    font-size: 16px;
+    float: left;
+    text-align: center;
+}
+
+.first_box_uploads {
+    width: 47%;
+    margin: 10px 0px 10px 10px;
+}
+.view_and_downloads {
+    padding: 10px 0px 0 0px;
+}
+.left_view p {
+    font-size: 11px;
+    
+}
+.title_file a {
+    font-size: 11px;
+}
+
+
+
+
+}
+
+@media only screen and (min-width: 993px) and (max-width: 1024px) {
+.logo-with_search {
+	width: 100%;
+}
+.logo_part {
+	width: 25%;
+}
+.search_box {
+	width: 72%;
+}
+.all_menu {
+	width: 100%;
+}
+.middle_sections {
+	padding: 150px 0 0 0;
+}
+.feed_center {
+	width: 63%;
+}
+.right_part-set {
+	width: 37%;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 400px;
+}
+.add_space {
+	display: none;
+}
+.right_sections {
+	width: 245px;
+	margin: 0px 0 20px 0px;
+	padding: 15px 10px;
+}
+.add_sections {
+	width: 245px;
+	margin: 0 0 0 0px;
+}
+.name_folo-usera {
+	width: 164px;
+}
+.post_bnt {
+	width: 83px;
+}
+.profile_name_detials {
+	width: 80%;
+}
+.profile_name_detials {
+	width: 86%;
+}
+.text_filds_com {
+	width: 66%;
+}
+.name_post-know {
+	width: 70%;
+}
+.name_commenter {
+	width: 86%;
+}
+
+/***************************login-page-responsive-css-put-here*****/
+.form_set_login {
+    padding: 10px 30px 0px 30px;
+}
+
+.left_icon {
+    width: 60px;
+}
+input.enter_use_id {
+    width: 100%;
+}
+
+.enter_email_id {
+    width: 80%;
+}
+
+.formgot_password {
+    width: 46%;
+    text-align: center;
+}
+.remember_me {
+    width: 183px;
+}
+.dd {
+    font-size: 14px;
+}
+.formgot_password a {
+    font-size: 12px;
+}
+
+
+/********Uploads-css-resposive-css-here****/
+
+
+.bottme_uploads {
+    width: 100%;
+}
+.uploads_folders {
+    width: 63%;
+    padding-top: 0px;
+}
+
+
+.upload_btns {
+    width: 100%;
+}
+
+.first_uploads {
+    width: 31%;
+    margin: 0 4px 0 5px;
+    float: left;
+}
+.first_uploads a {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0 10px 0px;
+}
+.listing_view_and_downloads {
+    width: 100%;
+    padding: 0 0 0 0px;
+}
+
+.first_views {
+    width: 50%;
+}
+
+.first_views p {
+    padding: 0 0 0 19px;
+    font-size: 16px;
+    float: left;
+    text-align: center;
+}
+
+.first_box_uploads {
+    width: 47%;
+    margin: 10px 0px 10px 10px;
+}
+.view_and_downloads {
+    padding: 10px 0px 0 0px;
+}
+.left_view p {
+    font-size: 13px;
+    
+}
+.title_file a {
+    font-size: 13px;
+}
+
+
+
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1100px) {
+.logo-with_search {
+	width: 100%;
+}
+.logo_part {
+	width: 25%;
+}
+.search_box {
+	width: 72%;
+}
+.all_menu {
+	width: 100%;
+}
+.middle_sections {
+	padding: 150px 0 0 0;
+}
+.feed_center {
+	width: 63%;
+}
+.right_part-set {
+	width: 37%;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 400px;
+}
+.add_space {
+	display: none;
+}
+.right_sections {
+	width: 245px;
+	margin: 0px 0 20px 0px;
+	padding: 15px 10px;
+}
+.add_sections {
+	width: 245px;
+	margin: 0 0 0 0px;
+}
+.name_folo-usera {
+	width: 164px;
+}
+.post_bnt {
+	width: 83px;
+}
+.profile_name_detials {
+	width: 80%;
+}
+.profile_name_detials {
+	width: 86%;
+}
+.text_filds_com {
+	width: 66%;
+}
+.name_post-know {
+	width: 70%;
+}
+.name_commenter {
+	width: 86%;
+}
+
+/***************************login-page-responsive-css-put-here*****/
+.form_set_login {
+    padding: 10px 30px 0px 30px;
+}
+
+.left_icon {
+    width: 60px;
+}
+input.enter_use_id {
+    width: 100%;
+}
+
+.enter_email_id {
+    width: 80%;
+}
+
+.formgot_password {
+    width: 46%;
+    text-align: center;
+}
+.remember_me {
+    width: 183px;
+}
+.dd {
+    font-size: 14px;
+}
+.formgot_password a {
+    font-size: 12px;
+}
+
+
+
+/********Uploads-css-resposive-css-here****/
+
+
+.bottme_uploads {
+    width: 100%;
+}
+.uploads_folders {
+    width: 71%;
+    padding-top: 0px;
+}
+
+
+.upload_btns {
+    width: 50%;
+}
+
+.first_uploads {
+    width: 29%;
+    margin: 0 4px 0 5px;
+    float: left;
+}
+.first_uploads a {
+    width: 100%;
+    text-align: center;
+	font-size: 13px;
+    padding: 6px 6px 6px 6px;
+}
+.listing_view_and_downloads {
+    width: 50%;
+    padding: 5px 0 0 0px;
+}
+
+.first_views {
+    width: 50%;
+}
+
+.first_views p {
+    padding: 0 0 0 19px;
+    font-size: 16px;
+    float: left;
+    text-align: center;
+}
+
+.first_box_uploads {
+    width: 32%;
+    margin: 10px 0px 10px 6px;
+	padding: 8px 8px;
+}
+.view_and_downloads {
+    padding: 10px 0px 0 0px;
+}
+.left_view p {
+    font-size: 13px;
+    
+}
+.title_file a {
+    font-size: 13px;
+}
+
+
+
+
+}
+
+@media only screen and (min-width: 1101px) and (max-width: 1199px) {
+.logo-with_search {
+	width: 100%;
+}
+.logo_part {
+	width: 25%;
+}
+.search_box {
+	width: 72%;
+}
+.all_menu {
+	width: 100%;
+}
+.middle_sections {
+	padding: 150px 0 0 0;
+}
+.feed_center {
+	width: 63%;
+}
+.right_part-set {
+	width: 37%;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 400px;
+}
+.add_space {
+	display: none;
+}
+.right_sections {
+	width: 245px;
+	margin: 0px 0 20px 0px;
+	padding: 15px 10px;
+}
+.add_sections {
+	width: 245px;
+	margin: 0 0 0 0px;
+}
+.name_folo-usera {
+	width: 164px;
+}
+.post_bnt {
+	width: 83px;
+}
+.profile_name_detials {
+	width: 80%;
+}
+.profile_name_detials {
+	width: 86%;
+}
+.text_filds_com {
+	width: 66%;
+}
+.name_post-know {
+	width: 70%;
+}
+.name_commenter {
+	width: 86%;
+}
+/***************************login-page-responsive-css-put-here*****/
+.form_set_login {
+    padding: 10px 30px 0px 30px;
+}
+
+.left_icon {
+    width: 60px;
+}
+input.enter_use_id {
+    width: 100%;
+}
+
+.enter_email_id {
+    width: 80%;
+}
+
+.formgot_password {
+    width: 46%;
+    text-align: center;
+}
+.remember_me {
+    width: 183px;
+}
+.dd {
+    font-size: 14px;
+}
+.formgot_password a {
+    font-size: 12px;
+}
+
+
+/********Uploads-css-resposive-css-here****/
+
+
+.bottme_uploads {
+    width: 100%;
+}
+.uploads_folders {
+    width: 71%;
+    padding-top: 0px;
+}
+
+
+.upload_btns {
+    width: 50%;
+}
+
+.first_uploads {
+    width: 29%;
+    margin: 0 4px 0 5px;
+    float: left;
+}
+.first_uploads a {
+    width: 100%;
+    text-align: center;
+	font-size: 13px;
+    padding: 6px 6px 6px 6px;
+}
+.listing_view_and_downloads {
+    width: 50%;
+    padding: 5px 0 0 0px;
+}
+
+.first_views {
+    width: 50%;
+}
+
+.first_views p {
+    padding: 0 0 0 19px;
+    font-size: 16px;
+    float: left;
+    text-align: center;
+}
+
+.first_box_uploads {
+    width: 32%;
+    margin: 10px 0px 10px 6px;
+	padding: 8px 8px;
+}
+.view_and_downloads {
+    padding: 10px 0px 0 0px;
+}
+.left_view p {
+    font-size: 13px;
+    
+}
+.title_file a {
+    font-size: 13px;
+}
+
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1300px) {
+.logo_part {
+	width: 70px;
+}
+.search_box {
+	width: 220px;
+}
+.logo-with_search {
+	width: 25%;
+}
+.feed_center {
+    width: 550px;
+}
+.name_post-know {
+    width: 70%;
+}
+.write-an-articals {
+    width: 178px;
+    
+}
+
+.uploads_img-set {
+    width: 100px;
+  
+}
+/***************************login-page-responsive-css-put-here*****/
+
+input.enter_use_id {
+    width: 90%;
+}
+.enter_email_id {
+    width: 80%;
+}
+
+.remember_me {
+    width: 200px;
+}
+
+.formgot_password {
+    width: 137px;
+}
+
+
+/********Uploads-css-resposive-css-here****/
+
+
+.bottme_uploads {
+    width: 100%;
+}
+.uploads_folders {
+    width: 71%;
+    padding-top: 0px;
+}
+
+
+.upload_btns {
+    width: 50%;
+}
+
+.first_uploads {
+    width: 29%;
+    margin: 0 4px 0 5px;
+    float: left;
+}
+.first_uploads a {
+    width: 100%;
+    text-align: center;
+	font-size: 13px;
+    padding: 6px 6px 6px 6px;
+}
+.listing_view_and_downloads {
+    width: 50%;
+    padding: 5px 0 0 0px;
+}
+
+.first_views {
+    width: 50%;
+}
+
+.first_views p {
+    padding: 0 0 0 19px;
+    font-size: 16px;
+    float: left;
+    text-align: center;
+}
+
+.first_box_uploads {
+    width: 32%;
+    margin: 10px 0px 10px 6px;
+	padding: 8px 8px;
+}
+.view_and_downloads {
+    padding: 10px 0px 0 0px;
+}
+.left_view p {
+    font-size: 13px;
+    
+}
+.title_file a {
+    font-size: 13px;
+}
+
+
+
+
+
+}
+
+	
+
+
